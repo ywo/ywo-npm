@@ -1,0 +1,51 @@
+{
+  "name": "ywo",
+  "version": "1.0.6",
+  "description": "ywo's util",
+  "main": "ywo.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ywo/ywo.git"
+  },
+  "dependencies": {
+    "htmlmin": "^0.0.2"
+  },
+  "author": {
+    "name": "ywo"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ywo/ywo/issues"
+  },
+  "homepage": "https://github.com/ywo/ywo",
+  "gitHead": "567785816e65144d0de0657f40e16137f2856dcc",
+  "_id": "ywo@1.0.5",
+  "_shasum": "1a71e5b2d002dc91c13d44af08458c4e5bf4382c",
+  "_from": "ywo@>=1.0.5 <2.0.0",
+  "_npmVersion": "2.5.1",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "name": "ywo",
+    "email": "a@div.li"
+  },
+  "maintainers": [
+    {
+      "name": "ywo",
+      "email": "a@div.li"
+    }
+  ],
+  "dist": {
+    "shasum": "8daa9913e79ad7f02b8d22cf04bce663764145ec",
+    "size": 1872,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/ywo/download/ywo-1.0.3.tgz"
+  },
+  "directories": {},
+  "_resolved": "http://registry.npm.taobao.org/ywo/download/ywo-1.0.3.tgz",
+  "publish_time": 1429160911644,
+  "_cnpm_publish_time": 1429160911644,
+  "readme": "ERROR: No README data found!"
+}
